@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Enzo Rodrigues Pieroni, Desenvolvedor FullStack e IA aplicada" width="100%">
+  <img src="imagem_2026-10-28_162548897.png" alt="Enzo Rodrigues Pieroni, Desenvolvedor FullStack e IA aplicada" width="100%">
 </p>
 
 # Enzo Rodrigues Pieroni
