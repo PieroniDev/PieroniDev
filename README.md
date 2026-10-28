@@ -37,7 +37,7 @@ Construo aplicações web completas, do banco de dados e infraestrutura à entre
 
 **IA e automação:** LLMs, Claude Code, sistemas multiagentes
 
-<img src="https://lobehub.com" width="20" height="20" alt="Claude Icon" />
+**<img src="https://lobehub.com" width="20" height="20" alt="Claude Icon" />**![Claude](https://lobehub.com) **Claude AI**
 
 ---
 
