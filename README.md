@@ -36,8 +36,7 @@ Construo aplicações web completas, do banco de dados e infraestrutura à entre
 <img src="https://skillicons.dev/icons?i=postgres,supabase,git,github,figma&theme=dark" alt="PostgreSQL, Supabase, Git, GitHub, Figma">
 
 **IA e automação:** LLMs, Claude Code, sistemas multiagentes
-
-**<img src="https://lobehub.com" width="20" height="20" alt="Claude Icon" />**![Claude](https://lobehub.com) **Claude AI**
+![Claude](https://shields.io)
 
 ---
 
