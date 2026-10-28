@@ -42,4 +42,4 @@ Construo aplicações web completas, do banco de dados e infraestrutura à entre
 ## Vamos conversar
 
 <a href="https://www.linkedin.com/in/enzo-rodrigues-pieroni-a705892a7/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"></a>
-<a href="mailto:SEU_EMAIL"><img src="https://skillicons.dev/icons?i=gmail" alt="E-mail" height="40"></a>
+<a href="mailto:enzopieroni01@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="E-mail" height="40"></a>
